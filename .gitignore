@@ -1,0 +1,11 @@
+# Ignore App folder
+foobar2000Portable/App/foobar2000
+
+# Ignore Data folder
+foobar2000Portable/Data
+
+# Ignore Work folder
+Work
+
+# Ignore log
+pac_installer_log.ini
