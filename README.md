@@ -50,4 +50,4 @@ is packaged in an installer and complete zip file.
 
 *	foobar2000 Portable released with the [MIT license](https://raw.githubusercontent.com/Makazzz/foobar2000Portable/master/LICENSE).
 *	PortableApps.com Launcher released with the [GPL v2.0 license](https://raw.githubusercontent.com/Makazzz/foobar2000Portable/master/foobar2000Portable/Other/Source/LauncherLicense.txt).
-*	foobar2000 released with the [BSD license](./foobar2000Portable/App/foobar2000/doc/license.html).
+*	foobar2000 released with the [BSD license](https://raw.githubusercontent.com/Makazzz/foobar2000Portable/master/foobar2000Portable/App/AppInfo/EULA.txt).
