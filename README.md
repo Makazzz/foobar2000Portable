@@ -43,7 +43,7 @@ is packaged in an installer and complete zip file.
 
 ## Credits
 
-*	foobar2000 Portable is an online installation of [foobar2000](https://www.foobar2000.com/), developed by [Peter Pawlowski](https://www.foobar2000.org/)
+*	foobar2000 Portable is an online installation of [foobar2000](https://www.foobar2000.org/), developed by [Peter Pawlowski](https://www.foobar2000.org/)
 *	[PortableApps.com platform](https://PortableApps.com/download) developed by the [PortableApps.com team](https://PortableApps.com).
 
 ## License
