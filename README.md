@@ -16,7 +16,7 @@ An advanced freeware audio player for the Windows platform.
 
 foobar2000 is a powerful open component architecture allowing third-party developers to extend functionality of the player, including the ability to fully replace the user interface with full Unicode support: File names, user interface, tagging, etc. You can have a user interface with simple configuration to create even complex layouts quickly and easily.
 
-My post on the [PortableApps.com forum](https://PortableApps.com/node/**Number**)
+My post on the [PortableApps.com forum](https://portableapps.com/node/61090)
 
 ## Download
 
