@@ -5,11 +5,11 @@
 # foobar2000 Portable<a href="https://portableapps.com/"><img src="https://cdn.portableapps.com/portableapps.com_1546.png" width="309" height="45" alt="PortableApps.com - Your Digital Life, Anywhere" title="PortableApps.com - Your Digital Life, Anywhere" align="right"></a>
 
 <p align="center">
-	<a href="https://github.com/Makazzz/foobar2000Portable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/foobar2000Portable?color=0cf&logo=**Choose**"></a>
-	<a href="https://github.com/Makazzz/foobar2000Portable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/foobar2000Portable/latest/total?color=blue"></a>
-	<a href="https://github.com/Makazzz/foobar2000Portable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/foobar2000Portable/total?color=0cf"></a>
-	<a href="https://github.com/Makazzz/foobar2000Portable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/foobar2000Portable?color=blue"></a>
-	<a href="https://raw.githubusercontent.com/Makazzz/foobar2000Portable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/foobar2000Portable?color=0cf"></a>
+	<a href="https://github.com/Makazzz/foobar2000Portable/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Makazzz/foobar2000Portable?color=lightgray&logo=**Choose**"></a>
+	<a href="https://github.com/Makazzz/foobar2000Portable/releases/latest"><img alt="GitHub Releases" src="https://img.shields.io/github/downloads/Makazzz/foobar2000Portable/latest/total?color=black"></a>
+	<a href="https://github.com/Makazzz/foobar2000Portable/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Makazzz/foobar2000Portable/total?color=lightgray"></a>
+	<a href="https://github.com/Makazzz/foobar2000Portable"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Makazzz/foobar2000Portable?color=black"></a>
+	<a href="https://raw.githubusercontent.com/Makazzz/foobar2000Portable/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/Makazzz/foobar2000Portable?color=lightgray"></a>
 </p>
 
 An advanced freeware audio player for the Windows platform.
